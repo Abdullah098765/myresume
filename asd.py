@@ -1,0 +1,7 @@
+print(35+5)
+print('Hello word!')
+print('Hello word!')
+print('Hello word!')
+print('Hello word!')
+print('Hello word!')
+print('Hello word!')
